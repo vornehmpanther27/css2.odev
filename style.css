@@ -1,0 +1,88 @@
+body{margin: 0px;}
+#indirim{
+    
+    background-color: hsl(206, 14%, 80%);
+    width: 1535px;
+    height: 30px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: small;
+    color: black;
+    padding-bottom: 20px;
+}
+.giriş{
+    display:flex;
+    background-color: rgb(103, 125, 146);
+    width: 1535px;
+    height: 150px;
+}
+#markalogo{
+    background-color: rgb(103, 125, 146);
+    width: 150px;
+    height:150px;
+    color: rgb(56, 52, 52);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px; 
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 850px;
+}
+.container1{
+    background-color: rgb(103, 125, 146);
+    margin-left: 50px;
+    margin-top: 50px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 50px;
+    height: 50px;
+    color: aliceblue;
+    font-size:20px;
+}
+#girissepet{
+    display:inline-block;
+    font-family:Arial, Helvetica, sans-serif;
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+
+}
+#kategori{
+    display: flex;
+    width: 1535px;
+    height: 300px;
+    background-color: rgb(176, 192, 206);
+}
+.altalta{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 30px;
+    margin-left: 20px;
+    color: azure;
+    margin-right: 20px;
+}
+#sonmetinler{
+    background-color:hsl(206, 10%, 69%);
+    width: 1535px;
+    height: 100px;
+    display: flex;
+    font-size: 16px;
+    
+    
+}
+.son{
+    margin-left: 250px;
+    margin-top: 40px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#mobil{
+    background-color: rgb(199, 236, 244);
+    width: 1535px;
+    height: 100px;
+    padding-top: 50px;
+    font-size: 15px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+
+
+
